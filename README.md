@@ -9,4 +9,4 @@ To run the page, just open the `index.html` file
 <h1>🌎Socials</h1>
 <a href="https://twitter.com/m4ddz7">Twitter</a>
 
-<a href="https://instagram.com/m4ddz7">Instagram</a>
+<a href="https://instagram.com/gmdot">Instagram</a>
